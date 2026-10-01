@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Livros | Livraria Online & Edições Especiais",
+  "description": "Livraria curada especializada em edições de luxo, ficção científica, fantasia épica e volumes de colecionador com acabamento nobre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
